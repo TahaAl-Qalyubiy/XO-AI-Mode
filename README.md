@@ -4,7 +4,7 @@ An intelligent Tic-Tac-Toe game built with modern Frontend technologies and AI-p
 
 ## 🚀 Live Demo
 
-🔗 https://tahaal-qalyubiy.github.io/XO-AI-Mode/
+🔗 https://delightful-druid-859457.netlify.app/
 
 ---
 
