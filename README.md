@@ -1,16 +1,126 @@
-# React + Vite
+# 🎮 XO AI Mode
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An intelligent Tic-Tac-Toe game built with modern Frontend technologies and AI-powered gameplay.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://tahaal-qalyubiy.github.io/XO-AI-Mode/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+✅ Human vs AI gameplay  
+✅ Multiple difficulty levels  
+✅ Smart AI decision-making  
+✅ Responsive design for all devices  
+✅ Clean and interactive UI  
+✅ Real-time game status updates  
+✅ Winning combinations detection  
+✅ Draw state handling  
+✅ Restart game functionality  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 AI Logic
+
+The AI system is designed to provide challenging gameplay experience.
+
+Difficulty levels:
+
+- 🟢 Easy → Random moves
+- 🟡 Medium → Mixed strategy
+- 🔴 Hard → Intelligent optimal moves using AI algorithm
+
+The AI evaluates board states and selects strategic moves to maximize winning chances.
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- AI Decision Algorithm
+
+---
+
+## 📂 Project Structure
+
+```
+XO-AI-Mode/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
+```
+
+---
+
+## 🎯 Learning Objectives
+
+This project was built to practice:
+
+- Frontend architecture
+- Game state management
+- Algorithmic thinking
+- AI decision making
+- DOM manipulation
+- Clean code practices
+
+---
+
+## 📸 Screenshots
+
+Add screenshots here
+
+```
+screenshots/gameplay.png
+```
+
+---
+
+## ⚡ Installation
+
+Clone repository:
+
+```bash
+git clone https://github.com/TahaAl-Qalyubiy/XO-AI-Mode.git
+```
+
+Open:
+
+```bash
+index.html
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork project
+2. Create feature branch
+3. Commit changes
+4. Push branch
+5. Open Pull Request
+
+---
+
+## 👨‍💻 Author
+
+Taha Mahmoud
+
+Frontend Developer
+
+GitHub:
+https://github.com/TahaAl-Qalyubiy
+
+LinkedIn:
+https://linkedin.com/in/taha-al-qalyubiy-98a417357
+
+---
+The Hard mode uses Minimax Algorithm to calculate optimal moves and provide competitive gameplay.
