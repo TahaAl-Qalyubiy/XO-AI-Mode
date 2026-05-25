@@ -38,10 +38,15 @@ The AI evaluates board states and selects strategic moves to maximize winning ch
 
 ## 🛠️ Technologies Used
 
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
 - HTML5
 - CSS3
-- JavaScript (ES6+)
-- AI Decision Algorithm
+- React Hooks
+- Vite
+- Minimax Algorithm
+- Game State Management
 
 ---
 
@@ -69,16 +74,6 @@ This project was built to practice:
 - AI decision making
 - DOM manipulation
 - Clean code practices
-
----
-
-## 📸 Screenshots
-
-Add screenshots here
-
-```
-screenshots/gameplay.png
-```
 
 ---
 
